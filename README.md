@@ -35,3 +35,10 @@ For more information, please read the [Findings.md](Findings.md) file, which pro
 
 Feel free to leave us a [feedback/Survey](https://forms.office.com/r/3GbWXsVTWm?origin=lprLink) 
 
+| Criteria |	Ratings |
+-----------|------------|
+|Design and layout |	18 pts, Outstanding, 1. Layout is appropriate 2. Some innovative design is adopted 3. All the standard of text, data presentation are coherent 4. Efforts are shown to draw attention|
+|Standard of the graphics used|	18 pts, Outstanding, 1. No graphical standards are violated 2. Some innovation is used in creating graphics|
+|Content/method, Quality of the content. Are appropriate methods used? Methods may include , exploratory study, modeling or dashboard|	18 pts, Outstanding, 1. Appropriate methods are used. 2. Methods are justified and diagnosed using graphics as needed.|
+|Interpretation of study results are results well-articulated, appropriate, accurate |	18 pts, Outstanding, 1. All the important results are displayed 2. All results are interpreted in the context of the problem|
+|Overall, i) how clear the big message/ sub message, ii) how the results are presented |	18 pts, Outstanding, 1. Big message and all the sub messages are very clear and visible 2. The poster is very neat and clean 3. None of the graphical standards is violated the problem"|
