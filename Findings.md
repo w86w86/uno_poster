@@ -13,19 +13,28 @@ Graph #1
 > by a significant margin. It also shows an overall ascending trend in median income
 > growth for various races from 2002 to 2022, despite a recent downturn due to the COVID-19 pandemic.
 <details>
-
 <summary>Tips for collapsed sections</summary>
-
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
+   
+### Farida
+```R
+   Data = read.csv("Race of Householder-Households by Median Income.csv")
+   #install.packages("ggplot2")
+   #install.packages("tidyverse")
+   
+   library(tidyverse)
+   
+   library(ggplot2)
+   
+   data_long <- tidyr::pivot_longer(Data, cols = c(White, Black, Asian, Hispanic),
+                                    names_to = "Race", values_to = "Value")
+   
+   ggplot(data_long, aes(x = Year, y = Value, color = Race)) +
+     geom_line(size = 4.5) +
+     
+     labs(x = "Year", y = "Income", title = "Real Median Income by Racial Group, Asians = Top Earners") +
+     scale_y_continuous(labels = scales::comma) +
+     theme_minimal() 
 ```
-
 </details>
 
 Graph #2 
