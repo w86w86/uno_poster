@@ -237,8 +237,8 @@ Graph #3
 ```
 </details>
 
-Graph #4 examines 
-> regional income disparities and shows that the Northeast has the highest median household income,
+Graph #4  
+> examines regional income disparities and shows that the Northeast has the highest median household income,
 > hich is increasing at a faster rate than in other regions.
 > It notes that this data represents overall household income irrespective of educational attainment.
 <details>
