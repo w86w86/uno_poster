@@ -5,7 +5,7 @@
 
 [![UNO Data Viz](https://www.unomaha.edu/university-communications/downloadables/lock-up/uno-lock-up-color-white.png)](https://unomaha.instructure.com/courses/78336/modules) Data Viz Courses
 
-(https://forms.office.com/r/3GbWXsVTWm?origin=lprLink)Group 3 Survey
+[https://forms.office.com/r/3GbWXsVTWm?origin=lprLink] Group 3 Survey
 ## Poster Title: Real Incomes Have Increased For Nearly All Demographics - But Not Equally.
 This repository is part of a semester project for the Data Visualization course at the University of Nebraska Omaha. It contains datasets, R code, and a notebook for visual analysis of income growth, income inequality, and poverty across various demographics and geographies in the United States.
 
