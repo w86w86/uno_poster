@@ -8,7 +8,7 @@
 ## Poster Title: Real Incomes Have Increased For Nearly All Demographics - But Not Equally.
 This repository is part of a semester project for the Data Visualization course at the University of Nebraska Omaha. It contains datasets, R code, and a notebook for visual analysis of income growth, income inequality, and poverty across various demographics and geographies in the United States.
 
-## Project Contributors:
+## Data Visualization group 3 - Project Contributors:
 - Abhinav Adhikari
 - Brent Arnold
 - Souleymane Diawara
