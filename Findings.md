@@ -12,6 +12,21 @@ Graph #1
 > visualizes median income growth by race, indicating that Asians are the top earners
 > by a significant margin. It also shows an overall ascending trend in median income
 > growth for various races from 2002 to 2022, despite a recent downturn due to the COVID-19 pandemic.
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
 
 Graph #2 
 > presents changes in real median household income from 2000 to 2022,
