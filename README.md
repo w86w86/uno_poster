@@ -3,7 +3,7 @@
 ##### The aspect ration of the poster should be 5x4 (5 feet width and 4 feet height)
 ## _version 1, released on May 16th 2024_
 
-[![UNO Data Viz](https://www.unomaha.edu/university-communications/downloadables/lock-up/uno-lock-up-color-white.png)](https://unomaha.instructure.com/courses/78336/modules)
+[![UNO Data Viz](https://www.unomaha.edu/university-communications/downloadables/lock-up/uno-lock-up-color-white.png)](https://unomaha.instructure.com/courses/78336/modules) Data Viz Courses
 
 ## Poster Title: Real Incomes Have Increased For Nearly All Demographics - But Not Equally.
 This repository is part of a semester project for the Data Visualization course at the University of Nebraska Omaha. It contains datasets, R code, and a notebook for visual analysis of income growth, income inequality, and poverty across various demographics and geographies in the United States.
