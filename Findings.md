@@ -8,6 +8,8 @@ The repository includes a notebook file that allows anyone interested to run all
 
 The abstract of their project highlights the general increase in real incomes for nearly all demographics in the U.S., suggesting that economic growth has ostensibly improved the standard of living for most Americans. However, it also points out that the benefits of this growth have not been evenly distributed, with some groups and regions reaping more advantages than others.
 
+[![Open nb in Colab Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/w86w86/uno_poster/blob/main/Notebook/Group_3_Notebook.ipynb)
+
 Graph #1 
 > visualizes median income growth by race, indicating that Asians are the top earners
 > by a significant margin. It also shows an overall ascending trend in median income
