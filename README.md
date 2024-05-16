@@ -23,6 +23,7 @@ Our project explores the trends in real income growth, the disparities in income
 - `Notebook/`: An R Notebook file that compiles all our visualizations and can be run to reproduce the analysis.
 - `Poster/`: The final poster summarizing our findings and visualizations.
 - `README.md`: Detailed information about the project, data sources, and instructions on how to execute the code.
+- `Findings.md`: Detailed instructions on how to navigate the repository and utilize the resources provided.
 
 ## Visualizations:
 1. Median Income Growth by Race (2002-2022)
