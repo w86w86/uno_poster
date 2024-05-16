@@ -31,5 +31,6 @@ Our project explores the trends in real income growth, the disparities in income
 4. Regional Median Household Income Comparison
 
 For more information, please read the [Findings.md](Findings.md) file, which provides detailed instructions on how to navigate the repository and utilize the resources provided.
+
 Feel free to leave us a [feedback/Survey](https://forms.office.com/r/3GbWXsVTWm?origin=lprLink) 
 
