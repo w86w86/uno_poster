@@ -30,4 +30,4 @@ Our project explores the trends in real income growth, the disparities in income
 3. Income Disparity and Wealth Accumulation Trends
 4. Regional Median Household Income Comparison
 
-For more information, please read the [Findings.md](Findings.md)](https://unomaha.instructure.com/courses/78336/modules) file, which provides detailed instructions on how to navigate the repository and utilize the resources provided.
+For more information, please read the [[Findings.md](Findings.md)](https://unomaha.instructure.com/courses/78336/modules) file, which provides detailed instructions on how to navigate the repository and utilize the resources provided.
