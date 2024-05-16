@@ -47,7 +47,7 @@ Graph #2
 <details>
 <summary>Sutend code</summary>
    
-### 
+### Brent
 ```R
    install.packages("maps")
 ```
@@ -88,7 +88,7 @@ Graph #3
 <details>
 <summary>Sutend code</summary>
    
-### 
+### Souleymane
 ```R
    #Table representes Mean Income Received by Each Fifth and Top 5 Percent of All Households: 1967 to 2022						
    #from the 2023 Annual Social and Economic (ASEC) Supplement
@@ -310,3 +310,9 @@ Graph #4 examines
 </details>
 
 Through this course and project, we gained hands-on experience in data analysis and visualization, learning how to interpret datasets. This project combines technical skills with critical thinking about social issues, reflecting the real-world applicability of data visualization.
+
+- The visualizations have been saved as SVG files, which enables us to produce them at a high resolution using the ggsave() function. This format and the resolution settings ensure that the images can be easily edited in PowerPoint according to our needs.
+   ```R
+      ggsave("plot.svg", width = 22, height = 12, dpi = 1000)
+   ```
+ - Most icons are from https://thenounproject.com/
